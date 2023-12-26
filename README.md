@@ -1,4 +1,4 @@
-# Deep Face Detection Project
+# Deep Face Detection 
 <strong>by Abdellah Ait Ahmed Ouaal</strong>
     
 ![Deep_Face_Project](Deep_Face.jpg)
